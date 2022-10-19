@@ -19,6 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
+This is my first project with Fronted Mentor. I have no idea what I'm doing. Time for research!
+
 ### Screenshot
 
 ![](./screenshot.jpg)
@@ -56,6 +58,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 To see how you can add code snippets, see below:
+
+I learned how to initialize Git for Version Control: [Initializing Git](https://codemy.com/git)
 
 ```html
 <h1>Some HTML code I'm proud of</h1>

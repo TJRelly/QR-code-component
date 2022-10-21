@@ -48,7 +48,7 @@ This project has inspired me to improve my knowlege of CSS and Flexbox.
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/watch?v=JqJNhM8i-nc&t=1s) - This helped me review my knowledge of Flexbox. 
+- [Flexbox Tutorial](https://https://www.youtube.com/watch?v=hwbqquXww-U) - This resource helped me review my knowledge of Flexbox. 
 
 ## Author
 

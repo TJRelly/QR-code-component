@@ -18,6 +18,7 @@
 
 body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
@@ -25,35 +26,42 @@ body {
 }
 
 .card {
-    width: 320px;
-    padding: 16px;
+    width: 375px;
+    padding: 1.25em;
     background-color: var(--White);
     box-shadow: 0px 3px 35px rgba(0, 0, 0, 0.2);
-    border-radius: 10px;
+    border-radius: 1rem;
 }
 
 img {
     max-width: 100%;
-    border-radius: 10px;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
 }
 
 h1 {
-    margin-top: .75em;
     font-weight: 700;
     font-size: 1.4rem;
     color: var(--Darkblue);
+    margin-bottom: 1rem;
 }
 
 p {
-    margin: .75em;
+    margin: .75rem;
     font-weight: 400;
     font-size: 15px;
     color: var(--Grayishblue);
 }
 
+h1,
+p {
+    padding: 0 1.5rem;
+}
+
 /* Attribution */
 .attribution {
-    font-size: 11px;
+    font-size: 12px;
+    padding: 1.5em;
 }
 
 .attribution a {

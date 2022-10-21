@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 This is my first project with Fronted Mentor. I have no idea what I'm doing. Time for research!
 
-### Design vs. My Build
+### Design vs My Build
 
 ![Design vs My Build](./images/qr-code-screenshot.png)
 

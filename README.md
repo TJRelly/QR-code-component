@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#design-vs.-my-build)
+  - [Screenshot](#design-vs-my-build)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -19,9 +19,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 This is my first project with Fronted Mentor. I have no idea what I'm doing. Time for research!
 
-### Design vs. My Build
+### Design vs My Build
 
-![Design vs. My Build](./images/qr-code-screenshot.png)
+![Design vs My Build](./images/qr-code-screenshot.png)
 
 ### Links
 

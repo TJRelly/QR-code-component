@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#Design-vs.-My-Build)
+  - [Screenshot](#design-vs.-my-build)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -25,8 +25,8 @@ This is my first project with Fronted Mentor. I have no idea what I'm doing. Tim
 
 ### Links
 
-- Solution URL: [Click here to view code](https://github.com/TJRelly/QR-code-component)
-- Live Site URL: [Click here to view the live site](https://tjrelly.github.io/QR-code-component/)
+- Solution URL: [https://github.com/TJRelly/QR-code-component](https://github.com/TJRelly/QR-code-component)
+- Live Site URL: [https://tjrelly.github.io/QR-code-component](https://tjrelly.github.io/QR-code-component/)
 
 ## My process
 

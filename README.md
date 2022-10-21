@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#design-vs.-my-build)
+  - [Screenshot](#design-vs-my-build)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -21,7 +21,7 @@ This is my first project with Fronted Mentor. I have no idea what I'm doing. Tim
 
 ### Design vs. My Build
 
-![Design vs. My Build](./images/qr-code-screenshot.png)
+![Design vs My Build](./images/qr-code-screenshot.png)
 
 ### Links
 
@@ -39,7 +39,7 @@ This is my first project with Fronted Mentor. I have no idea what I'm doing. Tim
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I learned that something as simple as a period (".") can break a link.
 
 To see how you can add code snippets, see below:
 

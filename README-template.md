@@ -19,14 +19,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 This is my first project with Fronted Mentor. I have no idea what I'm doing. Time for research!
 
-### Screenshot
+### Design vs. My Build
 
-![Design vs. My build](./images/qr-code-screenshot.png)
+![Design vs. My Build](./images/qr-code-screenshot.png)
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/TJRelly/QR-code-component)
-- Live Site URL: [Live Site](https://tjrelly.github.io/QR-code-component/)
+- Solution URL: [Click here to view code](https://github.com/TJRelly/QR-code-component)
+- Live Site URL: [Click here to view the live site](https://tjrelly.github.io/QR-code-component/)
 
 ## My process
 
@@ -78,9 +78,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+<!-- - Website - [Add your name here](https://www.your-site.com) -->
+- Frontend Mentor - [@TJRelly](https://www.frontendmentor.io/profile/TJRelly)
+- Twitter - [@TJR_Tech](https://www.twitter.com/TJR_Tech)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 

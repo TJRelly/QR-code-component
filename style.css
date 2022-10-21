@@ -7,7 +7,7 @@
     --Darkblue: hsl(218, 44%, 22%);
 }
 
-
+/* Main */
 * {
     margin: 0;
     padding: 0;
@@ -26,7 +26,8 @@ body {
 }
 
 .card {
-    width: 375px;
+    max-width: 375px;
+    margin: .938rem;
     padding: 1em;
     background-color: var(--White);
     box-shadow: 0px 3px 35px rgba(0, 0, 0, 0.2);
@@ -51,6 +52,7 @@ p {
     font-weight: 400;
     font-size: 15px;
     color: var(--Grayishblue);
+    margin-bottom: 1.5rem;
 }
 
 h1,

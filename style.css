@@ -31,12 +31,12 @@ body {
     padding: 1em;
     background-color: var(--White);
     box-shadow: 0px 3px 35px rgba(0, 0, 0, 0.2);
-    border-radius: 1rem;
+    border-radius: 1.25rem;
 }
 
 img {
     max-width: 100%;
-    border-radius: 1rem;
+    border-radius: 1.25rem;
     margin-bottom: 1rem;
 }
 
@@ -44,13 +44,13 @@ h1 {
     font-weight: 700;
     color: var(--Darkblue);
     margin-bottom: 1rem;
-    font-size: 25px;
+    font-size: 1.6em;
 }
 
 p {
-    margin: .75rem;
+    margin: .4rem;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 1em;
     color: var(--Grayishblue);
     margin-bottom: 1.5rem;
 }
